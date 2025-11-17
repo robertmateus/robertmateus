@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Robert+Mateus+%F0%9F%91%8B;Desenvolvedor+Front-End+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Atualmente+3%C2%BA+Sargento+do+Ex%C3%A9rcito+Brasileiro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Robert+Mateus+Moreira+Gomes%F0%9F%91%8B;Desenvolvedor+Front-End+em+Forma%C3%A7%C3%A3o+%F0%9F%9A%80;Atualmente+3%C2%BA+Sargento+do+Ex%C3%A9rcito+Brasileiro!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -18,15 +18,13 @@
 
 ## 🧩 Sobre mim
 
-Eu chamo **Robert Mateus Moreira Gomes**, tenho **25 anos** e sou natural de **São Paulo (SP)**.
-
-Atualmente sou **3º Sargento do Exército Brasileiro** e curso **Análise e Desenvolvimento de Sistemas** na **UNIASSELVI**.
-
-Com o tempo desenvolvi uma **grande paixão pela tecnologia**, especialmente pelo **Desenvolvimento Web**, área que me encantou pela capacidade de transformar ideias em soluções reais.
-
-Meu foco atual é o **Front-End**, estudando diariamente para consolidar minha **transição para o mercado de tecnologia em 2027**.
-
-Meu objetivo é criar **interfaces modernas, eficientes e intuitivas**, sempre buscando evolução contínua e entregando qualidade em cada projeto.
+<p align="justify">
+Eu chamo <b>Robert Mateus Moreira Gomes</b>, tenho <b>25 anos</b> e sou natural de <b>São Paulo (SP)</b>.
+Atualmente sou <b>3º Sargento do Exército Brasileiro</b> e curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNIASSELVI</b>.
+Com o tempo desenvolvi uma <b>grande paixão pela tecnologia</b>, especialmente pelo <b>Desenvolvimento Web</b>, área que me encantou pela capacidade de transformar ideias em soluções reais.
+Meu foco atual é o <b>Front-End</b>, estudando diariamente para consolidar minha <b>transição para o mercado de tecnologia em 2027</b>.
+Meu objetivo é criar <b>interfaces modernas, eficientes e intuitivas</b>, sempre buscando evolução contínua e entregando qualidade em cada projeto.
+</p>
 
 </div>
 
@@ -84,12 +82,18 @@ Desenvolvido como **atividade de extensão universitária pela UNIASSELVI** e **
 
 </div>
 
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
 - 🆘 Fornecer informações essenciais sobre direitos e proteção
 - 📞 Disponibilizar canais oficiais de denúncia e apoio
 - 🗺️ Mapear recursos locais de atendimento especializado
 - 📚 Promover conscientização sobre violência doméstica
 
+</div>
+
 <div align="center">
+
+<br>
 
 Este projeto representa a **união entre impacto social, desenvolvimento técnico e aplicação institucional real**, demonstrando como a tecnologia pode ser ferramenta de transformação social.
 
@@ -105,15 +109,19 @@ Este projeto representa a **união entre impacto social, desenvolvimento técnic
 
 </div>
 
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
 - **Design Responsivo** - Interface acessível para todos os dispositivos
 - **UX Sensível** - Design voltado para público vulnerável
 - **Otimização Multi-device** - Experiência consistente em diferentes plataformas
 - **Deploy e Manutenção** - Gestão de aplicação em produção
 - **Soft Skills** - Alinhamento com requisitos institucionais e acadêmicos
 
-<br>
+</div>
 
 <div align="center">
+
+<br>
 
 ### 🔗 Acesse o Projeto
 
