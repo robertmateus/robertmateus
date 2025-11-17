@@ -58,9 +58,9 @@ Meu objetivo é criar <b>interfaces modernas, eficientes e intuitivas</b>, sempr
 
 <div align="center">
 
-## 🌟 Projeto em Destaque
+## 🌟 Primeiro Projeto
 
-# 🛡️ **Projeto "Apoio à Mulher"**
+# 💜 **Projeto "Apoio à Mulher"**
 
 ### *Plataforma de conscientização e combate à violência doméstica*
 
