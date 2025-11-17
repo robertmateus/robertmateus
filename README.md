@@ -182,8 +182,5 @@ Se você se identificou com minha trajetória ou tem interesse em conversar sobr
 
 ⭐ **Se você gostou do meu perfil, deixe uma estrela nos repositórios!**
 
-<br>
-
-*Feito com 💜 por Robert Mateus*
-  
+<br>  
 </div>
