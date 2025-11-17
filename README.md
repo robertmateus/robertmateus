@@ -19,7 +19,7 @@
 ## 🧩 Sobre mim
 
 <p align="justify">
-Eu chamo <b>Robert Mateus Moreira Gomes,</b> tenho <b>25 anos</b> e sou natural de <b>São Paulo (SP).</b>
+Eu me chamo <b>Robert Mateus Moreira Gomes,</b> tenho <b>25 anos</b> e sou natural de <b>São Paulo (SP).</b>
 Atualmente sou <b>3º Sargento do Exército Brasileiro</b> e curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNIASSELVI.</b>
 Com o tempo desenvolvi uma <b>grande paixão pela tecnologia,</b> especialmente pelo <b>Desenvolvimento Web,</b> área que me encantou pela capacidade de transformar ideias em soluções reais.
 Meu foco atual é o <b>Front-End,</b> estudando diariamente para consolidar minha <b>transição para o mercado de tecnologia em 2027.</b>
