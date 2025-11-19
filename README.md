@@ -71,14 +71,13 @@ Meu objetivo é criar <b>interfaces modernas, eficientes e intuitivas,</b> sempr
 <br>
 
 [![Extensão Universitária](https://img.shields.io/badge/EXTENSÃO-UNIASSELVI-6A4FA3?style=for-the-badge&labelColor=4B2DB8)](https://github.com/robertmateus)
-[![Aplicação Institucional](https://img.shields.io/badge/APLICAÇÃO-EXÉRCITO_BRASILEIRO-0B6E24?style=for-the-badge&labelColor=084619)](https://github.com/robertmateus)
 [![Status](https://img.shields.io/badge/STATUS-FINALIZADO-22c55e?style=for-the-badge&labelColor=16a34a)](https://github.com/robertmateus)
 
 <br>
 
 ### 📖 Sobre o Projeto
 
-Desenvolvido como **atividade de extensão universitária pela UNIASSELVI** e **implementado institucionalmente no Exército Brasileiro**, o projeto "Apoio à Mulher" é uma plataforma web que visa:
+Desenvolvido como **atividade de extensão universitária pela UNIASSELVI,** o projeto "Apoio à Mulher" é uma plataforma web que visa:
 
 </div>
 
@@ -95,7 +94,7 @@ Desenvolvido como **atividade de extensão universitária pela UNIASSELVI** e **
 
 <br>
 
-Este projeto representa a **união entre impacto social, desenvolvimento técnico e aplicação institucional real**, demonstrando como a tecnologia pode ser ferramenta de transformação social.
+Este projeto representa a **união entre impacto social e desenvolvimento técnico,** demonstrando como a tecnologia pode ser ferramenta de transformação social.
 
 <br>
 
